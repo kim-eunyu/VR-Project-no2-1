@@ -1,0 +1,2761 @@
+{
+    "unity": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": false
+        },
+        "Export Directory": "C:/Users/vitor/OneDrive/Área de Trabalho/Work/CC4/Character Creator/_Packs_Assets/Realistic Human Basemesh - Rigged - Game-Ready/Male Body/.files/Unity",
+        "Object": {
+            "unity": {
+                "Generation": "RL_CC3_Plus",
+                "Physics": {
+                    "Collision Shapes": {
+                        "Shadow_Catcher": {},
+                        "CC_Base_Pivot": {},
+                        "Plane_001": {},
+                        "Light_Sets_1": {},
+                        "Dummy_0": {},
+                        "Light_Sets_2": {},
+                        "Light_Sets_3": {},
+                        "Light_Sets_4": {},
+                        "Camera": {},
+                        "CC3_Base_Plus": {},
+                        "CC_Base_BoneRoot": {},
+                        "CC_Base_Hip": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -5.326798915863037,
+                                    3.9297592639923097,
+                                    107.25909423828125
+                                ],
+                                "WorldRotationQ": [
+                                    0.797242283821106,
+                                    0.048394691199064258,
+                                    -0.0755188837647438,
+                                    0.5969585180282593
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0000004768371583,
+                                    1.0000003576278687
+                                ],
+                                "Radius": 8.692729949951172,
+                                "Capsule Length": 24.919788360595704
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    5.147042751312256,
+                                    3.929708242416382,
+                                    107.22623443603516
+                                ],
+                                "WorldRotationQ": [
+                                    0.7979432344436646,
+                                    -0.05873661860823631,
+                                    0.06772758811712265,
+                                    0.5960280895233154
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0000004768371583,
+                                    1.0000004768371583
+                                ],
+                                "Radius": 8.692729949951172,
+                                "Capsule Length": 24.919788360595704
+                            }
+                        },
+                        "CC_Base_Pelvis": {},
+                        "CC_Base_L_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    9.099371910095215,
+                                    2.4099462032318117,
+                                    75.83790588378906
+                                ],
+                                "WorldRotationQ": [
+                                    0.000934314273763448,
+                                    0.743353545665741,
+                                    -0.6688971519470215,
+                                    0.00110465323086828
+                                ],
+                                "WorldScale": [
+                                    1.000000238418579,
+                                    1.000000238418579,
+                                    1.000000238418579
+                                ],
+                                "Radius": 9.329142570495606,
+                                "Capsule Length": 37.49571228027344
+                            }
+                        },
+                        "CC_Base_L_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    8.456987380981446,
+                                    5.212588787078857,
+                                    28.919902801513673
+                                ],
+                                "WorldRotationQ": [
+                                    -0.007149526383727789,
+                                    0.7100583910942078,
+                                    -0.7040680646896362,
+                                    -0.00735477264970541
+                                ],
+                                "WorldScale": [
+                                    1.000000238418579,
+                                    1.0,
+                                    1.000000238418579
+                                ],
+                                "Radius": 6.164681434631348,
+                                "Capsule Length": 35.07794952392578
+                            }
+                        },
+                        "CC_Base_L_Foot": {},
+                        "CC_Base_L_ToeBaseShareBone": {},
+                        "CC_Base_L_ToeBase": {},
+                        "CC_Base_L_PinkyToe1": {},
+                        "CC_Base_L_RingToe1": {},
+                        "CC_Base_L_MidToe1": {},
+                        "CC_Base_L_IndexToe1": {},
+                        "CC_Base_L_BigToe1": {},
+                        "CC_Base_L_CalfTwist01": {},
+                        "CC_Base_L_CalfTwist02": {},
+                        "CC_Base_L_KneeShareBone": {},
+                        "CC_Base_L_ThighTwist01": {},
+                        "CC_Base_L_ThighTwist02": {},
+                        "CC_Base_R_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -9.10291862487793,
+                                    2.3897035121917726,
+                                    75.83903503417969
+                                ],
+                                "WorldRotationQ": [
+                                    -0.0009376381058245897,
+                                    0.7430968284606934,
+                                    -0.669182300567627,
+                                    -0.0011214236728847027
+                                ],
+                                "WorldScale": [
+                                    1.000000238418579,
+                                    1.0000005960464478,
+                                    1.000000238418579
+                                ],
+                                "Radius": 9.288561820983887,
+                                "Capsule Length": 37.572532653808597
+                            }
+                        },
+                        "CC_Base_R_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -8.452539443969727,
+                                    5.1737847328186039,
+                                    28.932140350341798
+                                ],
+                                "WorldRotationQ": [
+                                    0.007142243906855583,
+                                    0.7102488279342651,
+                                    -0.703876256942749,
+                                    0.007339156232774258
+                                ],
+                                "WorldScale": [
+                                    0.9999996423721314,
+                                    0.9999998807907105,
+                                    0.9999997615814209
+                                ],
+                                "Radius": 6.15408992767334,
+                                "Capsule Length": 35.09913635253906
+                            }
+                        },
+                        "CC_Base_R_KneeShareBone": {},
+                        "CC_Base_R_Foot": {},
+                        "CC_Base_R_ToeBase": {},
+                        "CC_Base_R_BigToe1": {},
+                        "CC_Base_R_PinkyToe1": {},
+                        "CC_Base_R_RingToe1": {},
+                        "CC_Base_R_IndexToe1": {},
+                        "CC_Base_R_MidToe1": {},
+                        "CC_Base_R_ToeBaseShareBone": {},
+                        "CC_Base_R_CalfTwist01": {},
+                        "CC_Base_R_CalfTwist02": {},
+                        "CC_Base_R_ThighTwist01": {},
+                        "CC_Base_R_ThighTwist02": {},
+                        "CC_Base_Waist": {},
+                        "CC_Base_Spine01": {
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.003377001965418458,
+                                    3.44811749458313,
+                                    129.6398162841797
+                                ],
+                                "WorldRotationQ": [
+                                    0.43692144751548769,
+                                    0.5560514330863953,
+                                    0.43682852387428286,
+                                    0.5559561252593994
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.000000238418579,
+                                    1.0
+                                ],
+                                "Radius": 12.762819290161133,
+                                "Capsule Length": 6.175422668457031
+                            }
+                        },
+                        "CC_Base_Spine02": {},
+                        "CC_Base_NeckTwist01": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.00029084357083775103,
+                                    6.498570442199707,
+                                    158.44822692871095
+                                ],
+                                "WorldRotationQ": [
+                                    0.7928885817527771,
+                                    2.3424424000495493e-7,
+                                    0.000003612817636167165,
+                                    0.6093667149543762
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0,
+                                    1.000000238418579
+                                ],
+                                "Radius": 5.261120796203613,
+                                "Capsule Length": 5.305225372314453
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0031007432844489815,
+                                    7.294800281524658,
+                                    144.49203491210938
+                                ],
+                                "WorldRotationQ": [
+                                    0.56065434217453,
+                                    0.43088752031326296,
+                                    0.5606594085693359,
+                                    0.4308871924877167
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 12.900218963623047,
+                                "Capsule Length": 9.39154052734375
+                            },
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -6.998647689819336,
+                                    2.0067126750946047,
+                                    140.55714416503907
+                                ],
+                                "WorldRotationQ": [
+                                    0.27087825536727908,
+                                    0.6531632542610169,
+                                    0.2708827555179596,
+                                    0.6531655788421631
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    1.0
+                                ],
+                                "Radius": 6.8678693771362309,
+                                "Capsule Length": 12.537233352661133
+                            },
+                            "Capsule(2)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    7.000866413116455,
+                                    2.006458282470703,
+                                    140.55697631835938
+                                ],
+                                "WorldRotationQ": [
+                                    0.27087825536727908,
+                                    0.6531632542610169,
+                                    0.2708827555179596,
+                                    0.6531655788421631
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    1.0
+                                ],
+                                "Radius": 6.86870002746582,
+                                "Capsule Length": 12.535465240478516
+                            }
+                        },
+                        "CC_Base_NeckTwist02": {},
+                        "CC_Base_Head": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0007762972381897271,
+                                    4.07709264755249,
+                                    171.27468872070313
+                                ],
+                                "WorldRotationQ": [
+                                    0.7070999145507813,
+                                    -0.0000037548447835433764,
+                                    -0.000012618825167010073,
+                                    0.7071136236190796
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 7.524134635925293,
+                                "Capsule Length": 7.071262359619141
+                            }
+                        },
+                        "CC_Base_FacialBone": {},
+                        "CC_Base_JawRoot": {},
+                        "CC_Base_Tongue01": {},
+                        "CC_Base_Tongue02": {},
+                        "CC_Base_Tongue03": {},
+                        "CC_Base_Teeth02": {},
+                        "CC_Base_R_Eye": {},
+                        "CC_Base_L_Eye": {},
+                        "CC_Base_UpperJaw": {},
+                        "CC_Base_Teeth01": {},
+                        "CC_Base_L_Clavicle": {},
+                        "CC_Base_L_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    29.56812858581543,
+                                    9.269318580627442,
+                                    149.3170166015625
+                                ],
+                                "WorldRotationQ": [
+                                    0.4932199716567993,
+                                    0.5110290050506592,
+                                    -0.507050633430481,
+                                    0.4883473813533783
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    0.9999998211860657,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 5.04542875289917,
+                                "Capsule Length": 22.94371795654297
+                            }
+                        },
+                        "CC_Base_L_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    62.91989517211914,
+                                    8.675224304199219,
+                                    149.8852081298828
+                                ],
+                                "WorldRotationQ": [
+                                    0.5053001642227173,
+                                    0.49921661615371706,
+                                    -0.4949987530708313,
+                                    0.5004305243492127
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0000001192092896,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 4.368339538574219,
+                                "Capsule Length": 21.781415939331056
+                            }
+                        },
+                        "CC_Base_L_ForearmTwist01": {},
+                        "CC_Base_L_ForearmTwist02": {},
+                        "CC_Base_L_ElbowShareBone": {},
+                        "CC_Base_L_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    81.84851837158203,
+                                    7.6123857498168949,
+                                    149.99423217773438
+                                ],
+                                "WorldRotationQ": [
+                                    0.4988635182380676,
+                                    0.5052102208137512,
+                                    -0.48598676919937136,
+                                    0.5096220970153809
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Extent": [
+                                    4.522911548614502,
+                                    9.572027206420899,
+                                    8.070649147033692
+                                ]
+                            }
+                        },
+                        "CC_Base_L_Pinky1": {},
+                        "CC_Base_L_Pinky2": {},
+                        "CC_Base_L_Pinky3": {},
+                        "CC_Base_L_Ring1": {},
+                        "CC_Base_L_Ring2": {},
+                        "CC_Base_L_Ring3": {},
+                        "CC_Base_L_Mid1": {},
+                        "CC_Base_L_Mid2": {},
+                        "CC_Base_L_Mid3": {},
+                        "CC_Base_L_Index1": {},
+                        "CC_Base_L_Index2": {},
+                        "CC_Base_L_Index3": {},
+                        "CC_Base_L_Thumb1": {},
+                        "CC_Base_L_Thumb2": {},
+                        "CC_Base_L_Thumb3": {},
+                        "CC_Base_L_UpperarmTwist01": {},
+                        "CC_Base_L_UpperarmTwist02": {},
+                        "CC_Base_L_RibsTwist": {},
+                        "CC_Base_L_Breast": {},
+                        "CC_Base_R_RibsTwist": {},
+                        "CC_Base_R_Breast": {},
+                        "CC_Base_R_Clavicle": {},
+                        "CC_Base_R_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -29.573423385620118,
+                                    9.272205352783204,
+                                    149.31356811523438
+                                ],
+                                "WorldRotationQ": [
+                                    -0.4932290315628052,
+                                    0.5110029578208923,
+                                    -0.5070696473121643,
+                                    -0.48834577202796938
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 5.045187950134277,
+                                "Capsule Length": 22.957799911499025
+                            }
+                        },
+                        "CC_Base_R_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -62.90786361694336,
+                                    8.676589012145996,
+                                    149.88372802734376
+                                ],
+                                "WorldRotationQ": [
+                                    0.5053135752677918,
+                                    -0.4991748631000519,
+                                    0.4949895441532135,
+                                    0.5004678964614868
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0000001192092896,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 4.368199348449707,
+                                "Capsule Length": 21.76651382446289
+                            }
+                        },
+                        "CC_Base_R_ElbowShareBone": {},
+                        "CC_Base_R_ForearmTwist01": {},
+                        "CC_Base_R_ForearmTwist02": {},
+                        "CC_Base_R_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -81.85087585449219,
+                                    7.879029273986816,
+                                    149.97366333007813
+                                ],
+                                "WorldRotationQ": [
+                                    0.4988943338394165,
+                                    -0.5051579475402832,
+                                    0.4860846996307373,
+                                    0.5095503330230713
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    1.0000001192092896
+                                ],
+                                "Extent": [
+                                    5.314798831939697,
+                                    9.573330879211426,
+                                    8.195566177368164
+                                ]
+                            }
+                        },
+                        "CC_Base_R_Ring1": {},
+                        "CC_Base_R_Ring2": {},
+                        "CC_Base_R_Ring3": {},
+                        "CC_Base_R_Mid1": {},
+                        "CC_Base_R_Mid2": {},
+                        "CC_Base_R_Mid3": {},
+                        "CC_Base_R_Thumb1": {},
+                        "CC_Base_R_Thumb2": {},
+                        "CC_Base_R_Thumb3": {},
+                        "CC_Base_R_Index1": {},
+                        "CC_Base_R_Index2": {},
+                        "CC_Base_R_Index3": {},
+                        "CC_Base_R_Pinky1": {},
+                        "CC_Base_R_Pinky2": {},
+                        "CC_Base_R_Pinky3": {},
+                        "CC_Base_R_UpperarmTwist01": {},
+                        "CC_Base_R_UpperarmTwist02": {},
+                        "CC_Base_Tongue": {},
+                        "CC_Base_Body": {},
+                        "CC_Base_EyeOcclusion": {},
+                        "CC_Base_TearLine": {},
+                        "Boxers": {},
+                        "CC_Game_Teeth": {},
+                        "CC_Game_Eye": {}
+                    }
+                },
+                "Meshes": {
+                    "Dummy_0": {
+                        "Materials": {
+                            "_1_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/_1_Default_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/_1_Default_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default/_1_Default_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default/_1_Default_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "_1_Default_0": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/_1_Default_0_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/_1_Default_0_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_0/_1_Default_0_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_0/_1_Default_0_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "_1_Default_1": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/_1_Default_1_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/_1_Default_1_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_1/_1_Default_1_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_1/_1_Default_1_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "_1_Default_2": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/_1_Default_2_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/_1_Default_2_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_2/_1_Default_2_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/Dummy_0/_1_Default_2/_1_Default_2_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "CC_Base_Tongue": {
+                        "Materials": {
+                            "Std_Tongue": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Tongue_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Tongue_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Reflection": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLTongue",
+                                    "Image": {
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "Gradient AO": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_GradAO.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 4.0,
+                                        "MicroNormal Strength": 0.5,
+                                        "_Brightness": 1.0,
+                                        "_Desaturation": 0.20000000298023225,
+                                        "Front Roughness": 1.0,
+                                        "Front Specular": 0.2590000033378601,
+                                        "Back Roughness": 1.0,
+                                        "Back Specular": 0.0,
+                                        "Front AO": 1.0,
+                                        "Back AO": 0.0,
+                                        "_Scatter": 1.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        255.0,
+                                        255.0
+                                    ],
+                                    "Radius": 1.0,
+                                    "Distribution": 0.9300000071525574,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8999999761581421
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_Body": {
+                        "Materials": {
+                            "Std_Skin_Head": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Head_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Head_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLHead",
+                                    "Image": {
+                                        "Specular Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SpecMask.bmp"
+                                        },
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_TransMap.bmp"
+                                        },
+                                        "Mouth Cavity Mask and AO": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MNAOMask.bmp"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SSSMap.bmp"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "Cheek Fore UpperLip Chin Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_CFULCMask.bmp"
+                                        },
+                                        "Ear Neck Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ENMask.bmp"
+                                        },
+                                        "Nose Mouth UpperInnerLid Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NMUILMask.bmp"
+                                        },
+                                        "BaseColor Blend2": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_BCBMap.bmp"
+                                        },
+                                        "NormalMap Blend": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NBMap.bmp"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MicroNMask.bmp"
+                                        },
+                                        "Blend Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Blend Mask.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "BaseColor Blend2 Strength": 0.5,
+                                        "NormalMap Blend Strength": 0.550000011920929,
+                                        "_BaseColorMap Brightness": -0.009999999776482582,
+                                        "_BaseColorMap Saturation": -0.09000000357627869,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 20.0,
+                                        "MicroNormal Strength": 0.800000011920929,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.05000000074505806,
+                                        "Nose Roughness Scale": -0.03500000014901161,
+                                        "Mouth Roughness Scale": 0.07000000029802323,
+                                        "UpperLid Roughness Scale": -0.17399999499320985,
+                                        "InnerLid Roughness Scale": -0.824999988079071,
+                                        "Ear Roughness Scale": 0.0,
+                                        "Neck Roughness Scale": 0.0,
+                                        "Cheek Roughness Scale": -0.07000000029802323,
+                                        "Forehead Roughness Scale": -0.05000000074505806,
+                                        "UpperLip Roughness Scale": 0.0,
+                                        "Chin Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "Inner Mouth Ao": 2.5,
+                                        "Nostril Ao": 3.5,
+                                        "Lips Gap Ao": 2.5,
+                                        "Nose Scatter Scale": 1.0,
+                                        "Mouth Scatter Scale": 1.0,
+                                        "UpperLid Scatter Scale": 1.0,
+                                        "InnerLid Scatter Scale": 1.0,
+                                        "Ear Scatter Scale": 1.0,
+                                        "Neck Scatter Scale": 1.0,
+                                        "Cheek Scatter Scale": 1.0,
+                                        "Forehead Scatter Scale": 1.0,
+                                        "UpperLip Scatter Scale": 1.0,
+                                        "Chin Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 0.0,
+                                        "_Active Blend Map": 0.0,
+                                        "padding ActiveBlend": 0.0,
+                                        "_Blend Map Color": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 0.0,
+                                        "_Skin Color Range": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Range": 0.15000000596046449,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 0.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Skin_Body": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Body_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Body_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_TransMap.bmp"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_RGBAMask.bmp"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_SSSMap.bmp"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MicroNMask.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": -0.009999999776482582,
+                                        "_BaseColorMap Saturation": -0.09000000357627869,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.05000000074505806,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 0.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 0.0,
+                                        "_Skin Color Range": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Range": 0.15000000596046449,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 0.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Skin_Arm": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Arm_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Arm_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_TransMap.bmp"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_RGBAMask.bmp"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_SSSMap.bmp"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MicroNMask.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": -0.009999999776482582,
+                                        "_BaseColorMap Saturation": -0.09000000357627869,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.05000000074505806,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 0.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 0.0,
+                                        "_Skin Color Range": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Range": 0.15000000596046449,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 0.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Skin_Leg": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Leg_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Skin_Leg_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_TransMap.bmp"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_RGBAMask.bmp"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_SSSMap.bmp"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroNMask.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": -0.009999999776482582,
+                                        "_BaseColorMap Saturation": -0.09000000357627869,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.05000000074505806,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 0.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 0.0,
+                                        "_Skin Color Range": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Range": 0.15000000596046449,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 0.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Nails": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Nails_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Nails_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_TransMap.bmp"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_RGBAMask.bmp"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_SSSMap.bmp"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.bmp"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Nails/Std_Nails_MicroNMask.bmp"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": -0.05000000074505806,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 0.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 0.0,
+                                        "_Skin Color Range": [
+                                            190.06814575195313,
+                                            143.65576171875,
+                                            122.1400146484375
+                                        ],
+                                        "_Range": 0.15000000596046449,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 0.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Eyelash": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Eyelash_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Std_Eyelash_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Std_Eyelash_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Eyelash/Std_Eyelash_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Eyelash/Std_Eyelash_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/unity/CC_Base_Body/Std_Eyelash/Std_Eyelash_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "CC_Base_EyeOcclusion": {
+                        "Materials": {
+                            "Std_Eye_Occlusion_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Std_Eye_Occlusion_R_Opacity.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeOcclusion",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Display Blur Range": 0.0,
+                                        "Blur Strength": 1.0,
+                                        "_Expand": 2.0,
+                                        "Top Blur Range": 0.5,
+                                        "Top Blur Contrast": 3.0,
+                                        "Bottom Blur Range": 1.0,
+                                        "Bottom Blur Contrast": 3.0,
+                                        "Outer Corner Blur Range": 0.5,
+                                        "Outer Corner Blur Contrast": 3.0,
+                                        "Tear Duct Position": 0.800000011920929,
+                                        "Tear Duct Contrast": 0.800000011920929,
+                                        "padding": 0.0,
+                                        "Shadow Color": [
+                                            70.0,
+                                            29.0,
+                                            17.0
+                                        ],
+                                        "Shadow Strength": 0.25,
+                                        "Shadow Top": 0.30000001192092898,
+                                        "Shadow Top Range": 0.800000011920929,
+                                        "Shadow Top Arc": 0.699999988079071,
+                                        "Shadow Bottom": 0.05000000074505806,
+                                        "Shadow Bottom Range": 0.20000000298023225,
+                                        "Shadow Bottom Arc": 2.0,
+                                        "Shadow Inner Corner": 0.15000000596046449,
+                                        "Shadow Inner Corner Range": 0.800000011920929,
+                                        "Tear Duct Shadow Offset": 1.0,
+                                        "Shadow Outer Corner": 0.10000000149011612,
+                                        "Shadow Outer Corner Range": 1.0,
+                                        "OpacityForBlink": 1.0,
+                                        "Shadow2 Color": [
+                                            48.0,
+                                            23.0,
+                                            11.0
+                                        ],
+                                        "Shadow2 Strength": 0.3499999940395355,
+                                        "Shadow2 Top": 0.20000000298023225,
+                                        "Shadow2 Top Range": 0.75,
+                                        "Depth Offset": 1.0,
+                                        "Fade Distance": 0.20000000298023225,
+                                        "Top Offset": 0.019999999552965165,
+                                        "Bottom Offset": 0.0,
+                                        "Inner Corner Offset": 0.0,
+                                        "Outer Corner Offset": 0.10000000149011612
+                                    }
+                                }
+                            },
+                            "Std_Eye_Occlusion_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Std_Eye_Occlusion_L_Opacity.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeOcclusion",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Display Blur Range": 0.0,
+                                        "Blur Strength": 1.0,
+                                        "_Expand": 2.0,
+                                        "Top Blur Range": 0.5,
+                                        "Top Blur Contrast": 3.0,
+                                        "Bottom Blur Range": 1.0,
+                                        "Bottom Blur Contrast": 3.0,
+                                        "Outer Corner Blur Range": 0.5,
+                                        "Outer Corner Blur Contrast": 3.0,
+                                        "Tear Duct Position": 0.800000011920929,
+                                        "Tear Duct Contrast": 0.800000011920929,
+                                        "padding": 0.0,
+                                        "Shadow Color": [
+                                            70.0,
+                                            29.0,
+                                            17.0
+                                        ],
+                                        "Shadow Strength": 0.25,
+                                        "Shadow Top": 0.30000001192092898,
+                                        "Shadow Top Range": 0.800000011920929,
+                                        "Shadow Top Arc": 0.699999988079071,
+                                        "Shadow Bottom": 0.05000000074505806,
+                                        "Shadow Bottom Range": 0.20000000298023225,
+                                        "Shadow Bottom Arc": 2.0,
+                                        "Shadow Inner Corner": 0.15000000596046449,
+                                        "Shadow Inner Corner Range": 0.800000011920929,
+                                        "Tear Duct Shadow Offset": 1.0,
+                                        "Shadow Outer Corner": 0.10000000149011612,
+                                        "Shadow Outer Corner Range": 1.0,
+                                        "OpacityForBlink": 1.0,
+                                        "Shadow2 Color": [
+                                            48.0,
+                                            23.0,
+                                            11.0
+                                        ],
+                                        "Shadow2 Strength": 0.3499999940395355,
+                                        "Shadow2 Top": 0.20000000298023225,
+                                        "Shadow2 Top Range": 0.75,
+                                        "Depth Offset": 1.0,
+                                        "Fade Distance": 0.20000000298023225,
+                                        "Top Offset": 0.019999999552965165,
+                                        "Bottom Offset": 0.0,
+                                        "Inner Corner Offset": 0.0,
+                                        "Outer Corner Offset": 0.10000000149011612
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_TearLine": {
+                        "Materials": {
+                            "Std_Tearline_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Tearline_R_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Std_Tearline_R_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeTearline",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Depth Offset": 0.10000000149011612,
+                                        "Detail Amount": 0.028999999165534974,
+                                        "Detail Scale U": 2.299999952316284,
+                                        "Detail Scale V": 0.11999999731779099,
+                                        "Edge Fadeout": 1.0,
+                                        "_Roughness": 0.10000000149011612,
+                                        "OpacityForBlink": 1.0
+                                    }
+                                }
+                            },
+                            "Std_Tearline_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Std_Tearline_L_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Std_Tearline_L_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeTearline",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Depth Offset": 0.10000000149011612,
+                                        "Detail Amount": 0.028999999165534974,
+                                        "Detail Scale U": 2.299999952316284,
+                                        "Detail Scale V": 0.11999999731779099,
+                                        "Edge Fadeout": 1.0,
+                                        "_Roughness": 0.10000000149011612,
+                                        "OpacityForBlink": 1.0
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Boxers": {
+                        "Materials": {
+                            "Boxers": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    208.00001525878907,
+                                    208.00001525878907,
+                                    208.00001525878907
+                                ],
+                                "Specular Color": [
+                                    229.00001525878907,
+                                    229.00001525878907,
+                                    229.00001525878907
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Boxers_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/unity/Boxers/Boxers/Boxers/Boxers_Glow.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Displacement": {
+                                        "Texture Path": "./textures/unity/Boxers/Boxers/Boxers/Boxers_Displacement.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ],
+                                        "Displacement Map": "Gray Scale Displacement",
+                                        "Tessellation Level": 0.0,
+                                        "Multiplier": 1.0,
+                                        "Gray-scale Base Value": 0.5
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./unity.fbm/Boxers_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Boxers_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/Boxers/Boxers/Boxers/Boxers_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/Boxers/Boxers/Boxers/Boxers_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/Boxers/Boxers/Boxers/Boxers_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "CC_Game_Teeth": {
+                        "Materials": {
+                            "Ga_Teeth": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Ga_Teeth_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Ga_Teeth_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/unity/CC_Game_Teeth/CC_Game_Teeth/Ga_Teeth/Ga_Teeth_ao.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Game_Teeth/CC_Game_Teeth/Ga_Teeth/Ga_Teeth_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Game_Teeth/CC_Game_Teeth/Ga_Teeth/Ga_Teeth_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "CC_Game_Eye": {
+                        "Materials": {
+                            "Ga_Eye": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./unity.fbm/Ga_Eye_Diffuse.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./unity.fbm/Ga_Eye_Normal.bmp",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/unity/CC_Game_Eye/CC_Game_Eye/Ga_Eye/Ga_Eye_MetallicAlpha.bmp"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/unity/CC_Game_Eye/CC_Game_Eye/Ga_Eye/Ga_Eye_HDRP.bmp"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
