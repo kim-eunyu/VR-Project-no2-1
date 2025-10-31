@@ -17,6 +17,7 @@ public class PathManager : MonoBehaviour
 
     [Tooltip("경로(SplineContainer)들을 순서대로 담은 리스트")]
     public List<SplineContainer> pathContainers;
+    public GameObject skyManger;
 
     // [Tooltip("회전시킬 Directional Light")]
     // public Light directionalLight;
@@ -101,6 +102,8 @@ public class PathManager : MonoBehaviour
         objectToMove.Restart(true);
 
         npc.SetActive(true);
+
+        skyManger.GetComponent<SkyboxManager>().enabled = true;
     }
 
     // 스카이박스 변경
