@@ -18,7 +18,7 @@ public class TriggerAudioPlayer : MonoBehaviour
 
     [Header("애니메이터 파라미터 이름")] // <-- 추가!
     [Tooltip("Animator에서 '말하기' 상태로 전환하는 bool 파라미터의 이름이에용.")]
-    public string talkingParameterName = "isTalking"; // <-- 추가!
+    public string talkingParameterName = "IsTalking"; // <-- 추가!
 
     private AudioSource audioSource;
     private bool hasPlayed = false;

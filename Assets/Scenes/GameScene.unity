@@ -1606,7 +1606,7 @@ MonoBehaviour:
   clipToPlay: {fileID: 8300000, guid: 4122bd966b0459745a7a8a2fba59e6fe, type: 3}
   playOnce: 1
   npcAnimator: {fileID: 919132148721678594}
-  talkingParameterName: isTalking
+  talkingParameterName: IsTalking
 --- !u!82 &1022042612
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3170,7 +3170,7 @@ MonoBehaviour:
   clipToPlay: {fileID: 8300000, guid: 8ccb9260b255de4499f07b721a271656, type: 3}
   playOnce: 1
   npcAnimator: {fileID: 919132148721678594}
-  talkingParameterName: isTalking
+  talkingParameterName: IsTalking
 --- !u!82 &1829659649
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3697,7 +3697,7 @@ MonoBehaviour:
   clipToPlay: {fileID: 8300000, guid: 40b6f468df08f2142a1e296e975414f3, type: 3}
   playOnce: 1
   npcAnimator: {fileID: 919132148721678594}
-  talkingParameterName: isTalking
+  talkingParameterName: IsTalking
 --- !u!82 &1898168532
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3911,7 +3911,7 @@ MonoBehaviour:
   clipToPlay: {fileID: 8300000, guid: 9279b1d479b18464bb3857f01f338798, type: 3}
   playOnce: 1
   npcAnimator: {fileID: 919132148721678594}
-  talkingParameterName: isTalking
+  talkingParameterName: IsTalking
 --- !u!82 &1927809368
 AudioSource:
   m_ObjectHideFlags: 0
