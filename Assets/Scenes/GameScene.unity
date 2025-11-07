@@ -4382,8 +4382,8 @@ MonoBehaviour:
     m_NumAlphaKeys: 2
   fogColor:
     serializedVersion: 2
-    key0: {r: 1, g: 1, b: 1, a: 0}
-    key1: {r: 1, g: 1, b: 1, a: 0}
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 0.8490566, g: 0.35887375, b: 0, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -4781,16 +4781,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1877729114885235814, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0
+      propertyPath: m_LocalPosition.y
+      value: 13.73
       objectReference: {fileID: 0}
     - target: {fileID: 1877729114885235814, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
-      propertyPath: m_LocalRotation.y
+      propertyPath: m_LocalPosition.z
+      value: -2.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 1877729114885235814, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
+      propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1877729114885235814, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1877729114885235814, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2457773743916842896, guid: 14cfc6ffaeb5f40469ab07f6f2316aa4, type: 3}
       propertyPath: m_Layer

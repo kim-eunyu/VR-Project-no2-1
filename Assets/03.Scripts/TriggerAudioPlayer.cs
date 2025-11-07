@@ -65,7 +65,7 @@ public class TriggerAudioPlayer : MonoBehaviour
         audioSource.PlayOneShot(clipToPlay);
 
         // 2. 애니메이션 시작 (Animator의 'isTalking' 파라미터를 true로 변경)
-        npcAnimator.SetBool(talkingParameterName, true); // <-- 추가!
+        npcAnimator.SetTrigger(talkingParameterName); // <-- 추가!
 
         // 3. 오디오 클립 길이가 끝나면 애니메이션을 멈추는 '코루틴'을 시작해용
         stopTalkingCoroutine = StartCoroutine(StopTalkingAfterClip()); // <-- 추가!
@@ -81,7 +81,7 @@ public class TriggerAudioPlayer : MonoBehaviour
         yield return new WaitForSeconds(clipToPlay.length);
 
         // 2. 시간이 다 되면 애니메이션을 멈춰용 (Animator의 'isTalking' 파라미터를 false로 변경)
-        npcAnimator.SetBool(talkingParameterName, false);
+        // npcAnimator.SetBool(talkingParameterName, false);
 
         // 3. 코루틴 참조를 비워줘용
         stopTalkingCoroutine = null;
